@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(59, 34, 34);
+}
+
+.div {
+    width: 40%;
+    height: 700px;
+    margin: auto;
+    background-color: rgb(124, 97, 97);
+    border-radius: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: aqua;
+}
+
+img {
+    width: 300px;
+    border-radius: 40px;
+}
